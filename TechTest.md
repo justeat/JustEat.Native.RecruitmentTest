@@ -1,10 +1,8 @@
 # **Native Apps - Technical Test**
 
-Thank you for taking the time to do our technical test. It should take between 2 and 3 hours to complete - depending on deep you want to go with the tools and the setup. It consists of three parts:
+Thank you for taking the time to do our technical test. It should take between 2 and 3 hours to complete - depending on deep you want to go with the tools and the setup. It consists of two parts:
 
 * Coding
-
-* Distributed systems
 
 * [Technical questions](Senior.Developer.Questions.md)
 
@@ -18,10 +16,9 @@ Please pick one of the excercises from here http://cyber-dojo.org/setup/show/ an
 
 There are no restrictions in terms of implementation details or tools but if you could use Visual C++ compiler and Google test for unit testing would be great. Any compiler and unit testing framework is acceptable however.
 
-Also provide a step by step description on how to build and run the unit tests.
-
-## Distributed systems - ~120 minutes
+## Distributed system - ~120 minutes
 
 Expose the implementation from the first point over TCP. Create a TCP server that accepts the parameters to your solution and returns the result. The communication protocol between the clients and the server needs to be as simple as possible. The server needs to accept concurrent connections from multiple clients.
 
 
+Please provide a step by step description on how to build and run the app and the tests.
