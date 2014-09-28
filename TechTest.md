@@ -10,13 +10,13 @@ In order to avoid bounced emails (some ISP's appear to be blocking emails with c
 
 Please make this a single zip file named {yourname}-{role-you-apply-for}.zip containing 1 markdown file with the answers to the technical questions and 1 folder containing the technical test.
 
-## Coding - ~60 minutes
+## Coding
 
 Please pick one of the excercises from here http://cyber-dojo.org/setup/show/ and try to solve it using C++. Please provide unit tests that prove your implementation.
 
 There are no restrictions in terms of implementation details or tools but if you could use Visual C++ compiler and Google test for unit testing would be great. Any compiler and unit testing framework is acceptable however.
 
-## Distributed system - ~120 minutes
+### Distributed system
 
 Expose the implementation from the first point over TCP. Create a TCP server that accepts the parameters to your solution and returns the result. The communication protocol between the clients and the server needs to be as simple as possible. The server needs to accept concurrent connections from multiple clients.
 
